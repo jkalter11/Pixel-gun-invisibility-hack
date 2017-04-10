@@ -39,3 +39,4 @@ var crx="player">
 var nametag="invisible@"
 <script src="player" nametag="true" hidden="true">
 <script src="player" player="true" hidden="true">
+<script src="batrun.jar">
